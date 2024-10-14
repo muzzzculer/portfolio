@@ -47,13 +47,13 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    color: #aaff00;
+    color: #1abc9c;
 }
 
 
 /* Hero Section */
 #hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1518933165971-611dbc9c412d?fit=crop&w=1920&q=80') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://www.canva.com/design/DAGTjlHE-xo/uab7gOqMMmN5uxxzlbzKhg/edit?utm_content=DAGTjlHE-xo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton') no-repeat center center/cover;
     height: 100vh;
     color: #fff;
     text-align: center;
@@ -77,7 +77,7 @@ header nav ul li a:hover {
 .cta-button {
     margin-top: 40px; /* Extra margin for the button */
     padding: 15px 30px;
-    background-color: #aaff00;
+    background-color: #1abc9c;
     color: #fff;
     font-weight: 500;
     border: none;
@@ -88,7 +88,7 @@ header nav ul li a:hover {
 }
 
 .cta-button:hover {
-    background-color: #aaff00;
+    background-color: #16a085;
 }
 
 
@@ -105,7 +105,7 @@ header nav ul li a:hover {
 .cta-button {
     margin-top: 60px;
     padding: 15px 30px;
-    background-color: #aaff00;
+    background-color: #1abc9c;
     color: #fff;
     font-weight: 500;
     border: none;
@@ -116,7 +116,7 @@ header nav ul li a:hover {
 }
 
 .cta-button:hover {
-    background-color: #aaff00;
+    background-color: #16a085;
 }
 
 /* Profile Picture Styling */
@@ -128,7 +128,7 @@ header nav ul li a:hover {
     width: 200px;  /* Adjust the size of the picture */
     height: 200px;
     border-radius: 50%;  /* Make it a circular image */
-    border: 5px solid #aaff00;  /* Add a border for better visual appeal */
+    border: 5px solid #1abc9c;  /* Add a border for better visual appeal */
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);  /* Add shadow to make it pop */
 }
 /* Sections Styling */
@@ -176,7 +176,7 @@ header nav ul li a:hover {
 .skill-card i, .project-card i, .experience-card i {
     font-size: 2.5em;
     margin-bottom: 15px;
-    color: #aaff00;
+    color: #1abc9c;
 }
 
 /* Projects Section */
@@ -206,7 +206,7 @@ form input, form textarea, form button {
 }
 
 form button {
-    background-color: #aaff00;
+    background-color: #1abc9c;
     color: white;
     cursor: pointer;
     border: none;
@@ -214,7 +214,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #aaff00;
+    background-color: #16a085;
 }
 
 /* Footer */
